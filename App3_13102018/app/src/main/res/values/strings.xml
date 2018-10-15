@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="FirstTitle">Calculadora</string>
+    <string name="s">Sumar</string>
+    <string name="r">Restar</string>
+    <string name="m">Mult</string>
+    <string name="d">Dividir</string>
+    <string name="v2">...</string>
+    <string name="hint1">Resultado</string>
+    <string name="y">Y</string>
+    <string name="x">X</string>
+
+
+</resources>

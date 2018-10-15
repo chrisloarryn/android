@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="FirstTitle">Registro Usuario</string>
+    <string name="dni">Rut</string>
+    <string name="v2">...</string>
+    <string name="name">Nombre</string>
+    <string name="lname">Apellido</string>
+    <string name="e">Email</string>
+    <string name="m">Masculino</string>
+    <string name="f">Femenino</string>
+    <string name="r">Registrar</string>
+    <string name="c">Limpiar</string>
+
+    <string-array name="paises">
+        <item>Chile</item>
+        <item>Peru</item>
+        <item>Bolivia</item>
+        <item>Argentina</item>
+        <item>Cuba</item>
+        <item>Colombia</item>
+        <item>Venezuela</item>
+    </string-array>
+
+</resources>
